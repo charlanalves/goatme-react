@@ -5,3 +5,4 @@
 
 3 - `npm start`
 
+4 - `acesse http://localhost:3000/ ou o endereço que aparecer no final do comando npm start`
