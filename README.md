@@ -1,5 +1,5 @@
 # Para iniciar o projeto basta seguir a sequência abaixo:
-1 - `git clone https://github.com/charlanalves/goatme-vuejs.git && cd goatme-vuejs`
+1 - `git clone https://github.com/charlanalves/goatme-react.git && cd goatme-react`
 
 2 - `npm install`
 
